@@ -12,7 +12,7 @@ func main() {
 	// declare vars over here
 	// fileName := "test.txt"
 	fileName := "advent1.txt"
-	filePath := "/home/posytron/learn/advent/1/data"
+	filePath := "//Users/samanyanga/Dev/projects/advent2025/day1/2/data"
 	count := 0
 	countOfZeroes := 0
 	countOfZeroDuringRotations := 0

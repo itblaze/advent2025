@@ -13,7 +13,7 @@ func main() {
 	// declare vars over here
 	// fileName := "test.txt"
 	fileName := "advent.txt"
-	filePath := "/home/posytron/learn/advent/day3/data"
+	filePath := "/Users/samanyanga/Dev/projects/advent2025/day3/data"
 	dataArr := make([]string, 0, 10)
 
 	println("Beginning of advent of code day 3...")

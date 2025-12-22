@@ -13,7 +13,7 @@ func main() {
 	// declare vars over here
 	// fileName := "test.txt"
 	fileName := "advent2.txt"
-	filePath := "/home/posytron/learn/advent/day2/1/data"
+	filePath := "/Users/samanyanga/Dev/projects/advent2025/day2/1/data"
 
 	println("Beginning of advent of code day 2...")
 	fmt.Printf("Reading file: %v from location %v\n", fileName, filePath)
